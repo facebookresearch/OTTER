@@ -1,0 +1,13 @@
+python -m torch.distributed.launch --nproc_per_node=8 --use_env train.py \
+    --batch 64 \
+    --epochs 10 \
+    --output_dir "./out" \
+    --lr 3e-3 \
+    --wd 0.0 \
+    --distill \
+    --ema_distill \
+    --ot_distill \
+    --sinkhorn_iter 4 \
+    --global_ot \
+    --remove_diag \
+    --world_size 8

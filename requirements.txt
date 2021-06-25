@@ -1,0 +1,9 @@
+faiss-gpu
+numpy
+pandas
+Pillow
+scikit-learn
+timm
+transformers
+torch
+torchvision

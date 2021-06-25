@@ -1,0 +1,1000 @@
+n01440764,freshwater dace-like game fish of Europe and western Asia noted for ability to survive outside water
+n01443537,small golden or orange-red freshwater fishes of Eurasia used as pond or aquarium fishes
+n01484850,large aggressive shark widespread in warm seas; known to attack humans
+n01491361,large dangerous warm-water shark with striped or spotted body
+n01494475,medium-sized live-bearing shark with eyes at either end of a flattened hammer-shaped head; worldwide in warm waters; can be dangerous
+n01496331,any sluggish bottom-dwelling ray of the order Torpediniformes having a rounded body and electric organs on each side of the head capable of emitting strong electric discharges
+n01498041,large venomous ray with large barbed spines near the base of a thin whiplike tail capable of inflicting severe wounds
+n01514668,adult male bird
+n01514859,adult female bird
+n01518878,fast-running African flightless bird with two-toed feet; largest living bird
+n01530575,Eurasian finch
+n01531178,small European finch having a crimson face and yellow-and-black wings
+n01532829,small finch originally of the western United States and Mexico
+n01534433,small North American finch seen chiefly in winter
+n01537544,small deep blue North American bunting
+n01558993,large American thrush having a rust-red breast and abdomen
+n01560419,nightingale spoken of in Persian poetry
+n01580077,crested largely blue bird
+n01582220,long-tailed black-and-white crow that utters a raucous chattering call
+n01592084,any of various small grey-and-black songbirds of North America
+n01601694,small stocky diving bird without webbed feet; frequents fast-flowing streams and feeds along the bottom
+n01608432,any of several small graceful hawks of the family Accipitridae having long pointed wings and feeding on insects and small animals
+n01614925,a large eagle of North America that has a white head and dark wings and body
+n01616318,any of various large diurnal birds of prey having naked heads and weak claws and feeding chiefly on carrion
+n01622779,large dish-faced owl of northern North America and western Eurasia
+n01629819,a kind of European salamander
+n01630670,small semiaquatic salamander
+n01631663,a newt in its terrestrial stage of development
+n01632458,glossy black North American salamander with yellow spots
+n01632777,larval salamander of mountain lakes of Mexico that usually lives without metamorphosing
+n01641577,largest North American frog; highly aquatic with a deep-pitched voice
+n01644373,any of various Old World arboreal frogs distinguished from true frogs by adhesive suckers on the toes
+n01644900,western North American frog with a taillike copulatory organ
+n01664065,very large carnivorous sea turtle; wide-ranging in warm open seas
+n01665541,wide-ranging marine turtle with flexible leathery carapace; largest living turtle
+n01667114,bottom-dwelling freshwater turtle inhabiting muddy rivers of North America and Central America
+n01667778,any of various edible North American web-footed turtles living in fresh or brackish water
+n01669191,chiefly terrestrial turtle of North America; shell can be closed tightly
+n01675722,any of several geckos with dark bands across the body and differing from typical geckos in having movable eyelids; of United States southwest and Florida Gulf Coast
+n01677366,large herbivorous tropical American arboreal lizards with a spiny crest along the back; used as human food in Central America and South America
+n01682714,small arboreal tropical American insectivorous lizards with the ability to change skin color
+n01685808,any of numerous very agile and alert New World lizards
+n01687978,small terrestrial lizard of warm regions of the Old World
+n01688243,large arboreal insectivorous Australian lizard with a ruff of skin around the neck
+n01689811,slim short-limbed lizard having a distinctive fold on each side that permits expansion; of western North America
+n01692333,large orange and black lizard of southwestern United States; not dangerous unless molested
+n01693334,a common Eurasian lizard about a foot long
+n01694178,a chameleon found in Africa
+n01695060,the largest lizard in the world (10 feet); found on Indonesian islands
+n01697457,a dangerous crocodile widely distributed in Africa
+n01698640,large alligator of the southeastern United States
+n01704323,huge ceratopsian dinosaur having three horns and the neck heavily armored with a very solid frill
+n01728572,small reddish wormlike snake of eastern United States
+n01728920,any of numerous small nonvenomous North American snakes with a yellow or orange ring around the neck
+n01729322,harmless North American snake with upturned nose; may spread its head and neck or play dead when disturbed
+n01729977,either of two North American chiefly insectivorous snakes that are green in color
+n01734418,any of numerous nonvenomous North American constrictors; feed on other snakes and small mammals
+n01735189,any of numerous nonvenomous longitudinally-striped viviparous North American and Central American snakes
+n01737021,any of various mostly harmless snakes that live in or near water
+n01739381,slender arboreal snake found from southern Arizona to Bolivia
+n01740131,nocturnal prowler of western United States and Mexico
+n01742172,very large boa of tropical America and West Indies
+n01744401,very large python of tropical and southern Africa
+n01748264,a cobra of tropical Africa and Asia
+n01749939,green phase of the black mamba
+n01751748,any of numerous venomous aquatic viviparous snakes having a fin-like tail; of warm littoral seas; feed on fish which they immobilize with quick-acting venom
+n01753488,highly venomous viper of northern Africa and southwestern Asia having a horny spine above each eye
+n01755581,large deadly rattlesnake with diamond-shaped markings
+n01756291,small pale-colored desert rattlesnake of southwestern United States; body moves in an s-shaped curve
+n01768244,an extinct arthropod that was abundant in Paleozoic times; had an exoskeleton divided into three parts
+n01770081,spiderlike arachnid with a small rounded body and very long thin legs
+n01770393,arachnid of warm dry regions having a long segmented tail ending in a venomous stinger
+n01773157,a widely distributed North American garden spider
+n01773549,an orange and tan spider with darkly banded legs that spins an orb web daily
+n01773797,a spider common in European gardens
+n01774384,venomous New World spider; the female is black with an hourglass-shaped red mark on the underside of the abdomen
+n01774750,large hairy tropical spider with fangs that can inflict painful but not highly venomous bites
+n01775062,ground spider that hunts its prey instead of using a web
+n01776313,any of two families of small parasitic arachnids with barbed proboscis; feed on blood of warm-blooded animals
+n01784675,chiefly nocturnal predacious arthropod having a flattened body of 15 to 173 segments each with a pair of legs, the foremost pair being modified as prehensors
+n01795545,grouse of which the male is bluish-black
+n01796340,large Arctic and subarctic grouse with feathered feet and usually white winter plumage
+n01797886,valued as a game bird in eastern United States and Canada
+n01798484,brown mottled North American grouse of western prairies
+n01806143,male peafowl; having a crested head and very large fanlike tail marked with iridescent eyes or spots
+n01806567,small gallinaceous game birds
+n01807496,small Old World gallinaceous game birds
+n01817953,commonly domesticated grey parrot with red-and-black tail and white face; native to equatorial Africa
+n01818515,long-tailed brilliantly colored parrot of Central America and South America; among the largest and showiest of parrots
+n01819313,white cockatoo with a yellow erectile crest
+n01820546,any of various small lories
+n01824575,Old World ground-living cuckoo having a long dagger-like hind claw
+n01828970,colorful chiefly tropical Old World bird having a strong graceful flight; feeds on especially bees
+n01829413,bird of tropical Africa and Asia having a very large bill surmounted by a bony protuberance; related to kingfishers
+n01833805,tiny American bird having brilliant iridescent plumage and long slender bills; wings are specialized for vibrating flight
+n01843065,tropical American insectivorous bird having a long sharp bill and iridescent green or bronze plumage
+n01843383,brilliantly colored arboreal fruit-eating bird of tropical America having a very large thin-walled beak
+n01847000,adult male of a wild or domestic duck
+n01855032,widely distributed merganser of America and Europe
+n01855672,web-footed long-necked typically gregarious migratory aquatic birds usually larger and less aquatic than ducks
+n01860187,large Australian swan having black plumage and a red bill
+n01871265,any mammal with prominent tusks (especially an elephant or wild boar)
+n01872401,a burrowing monotreme mammal covered with spines and having a long snout and claws for hunting ants and termites; native to Australia
+n01873310,small densely furred aquatic monotreme of Australia and Tasmania having a broad bill and tail and webbed feet; only species in the family Ornithorhynchidae
+n01877812,any of various small or medium-sized kangaroos; often brightly colored
+n01882714,sluggish tailless Australian arboreal marsupial with grey furry ears and coat; feeds on eucalyptus leaves and bark
+n01883070,burrowing herbivorous Australian marsupials about the size of a badger
+n01910747,any of numerous usually marine and free-swimming coelenterates that constitute the sexually reproductive forms of hydrozoans and scyphozoans
+n01914609,marine polyps that resemble flowers but have oral rings of tentacles; differ from corals in forming no hard skeleton
+n01917289,massive reef-building coral having a convoluted and furrowed surface
+n01924916,parasitic or free-living worms having a flattened body
+n01930112,unsegmented worms with elongated rounded body pointed at both ends; mostly free-living but some are parasitic
+n01943899,any of various edible tropical marine gastropods of the genus Strombus having a brightly-colored spiral shell with large outer lip
+n01944390,freshwater or marine or terrestrial gastropod mollusk usually having an external enclosing spiral shell
+n01945685,any of various terrestrial gastropods having an elongated slimy body and no external shell
+n01950731,any of various marine gastropods of the suborder Nudibranchia having a shell-less and often beautifully colored body
+n01955084,primitive elongated bilaterally symmetrical marine mollusk having a mantle covered with eight calcareous plates
+n01968897,cephalopod of the Indian and Pacific oceans having a spiral shell with pale pearly partitions
+n01978287,small edible crab of Pacific coast of North America
+n01978455,crab of eastern coast of North America
+n01980166,burrowing crab of American coastal regions having one claw much enlarged in the male
+n01981276,large edible crab of northern Pacific waters especially along the coasts of Alaska and Japan
+n01983481,lobster of Atlantic coast of America
+n01984695,large edible marine crustacean having a spiny carapace but lacking the large pincers of true lobsters
+n01985128,small freshwater decapod crustacean that resembles a lobster
+n01986214,small soft-bodied marine crustaceans living in cast-off shells of gastropods
+n01990800,any of various small terrestrial or aquatic crustaceans with seven pairs of legs adapted for crawling
+n02002556,the common stork of Europe; white with black wing feathers and a red bill
+n02002724,Old World stork that is glossy black above and white below
+n02006656,wading birds having a long flat bill with a tip like a spoon
+n02007558,large pink to scarlet web-footed wading bird with down-bent bill; inhabits brackish lakes
+n02009229,small bluish-grey heron of the western hemisphere
+n02009912,a common egret of the genus Egretta found in America; it is a variety of the Old World white egret Casmerodius albus
+n02011460,relatively small compact tawny-brown heron with nocturnal habits and a booming cry; found in marshes
+n02012849,large long-necked wading bird of marshes and plains in many parts of the world
+n02013706,wading bird of Florida, Cuba and Jamaica having a drooping bill and a distinctive wailing call
+n02017213,purple gallinule of southern Europe
+n02018207,a coot found in North America
+n02018795,large heavy-bodied chiefly terrestrial game bird capable of powerful swift flight; classified with wading birds but frequents grassy steppes
+n02025239,common Arctic turnstone that winters in South America and Australia
+n02027492,small common sandpiper that breeds in northern or Arctic regions and winters in southern United States or Mediterranean regions
+n02028035,a common Old World wading bird with long red legs
+n02033041,shorebird of the sandpiper family that resembles a snipe
+n02037110,black-and-white shorebird with stout legs and bill; feed on oysters etc.
+n02051845,large long-winged warm-water seabird having a large bill with a distensible pouch for fish
+n02056570,large penguin on islands bordering the Antarctic Circle
+n02058221,large web-footed birds of the southern hemisphere having long narrow wings; noted for powerful gliding flight
+n02066245,medium-sized greyish-black whale of the northern Pacific
+n02071294,predatory black-and-white toothed whale with large dorsal fin; common in cold seas
+n02074367,sirenian tusked mammal found from eastern Africa to Australia; the flat tail is bilobate
+n02077923,any of several large eared seals of the northern Pacific related to fur seals but lacking their valuable coat
+n02085620,an old breed of tiny short-haired dog with protruding eyes from Mexico held to antedate Aztec civilization
+n02085782,breed of toy dogs originating in Japan having a silky black-and-white or red-and-white coat
+n02085936,breed of toy dogs having a long straight silky white coat
+n02086079,a Chinese breed of small short-legged dogs with a long silky coat and broad flat muzzle
+n02086240,a Chinese breed of small dog similar to a Pekingese
+n02086646,red-and-white variety of English toy spaniel
+n02086910,small slender toy spaniel with erect ears and a black-spotted brown to white coat
+n02087046,a small active dog
+n02087394,a powerful short-haired African hunting dog having a crest of reversed hair along the spine
+n02088094,tall graceful breed of hound with a long silky coat; native to the Near East
+n02088238,smooth-haired breed of hound with short legs and long ears
+n02088364,a small short-legged smooth-coated breed of hound
+n02088466,a breed of large powerful hound of European origin having very acute smell and used in tracking
+n02088632,a very fast American hound; white mottled with bluish grey
+n02089078,American breed of large powerful hound dogs used for hunting raccoons and other game
+n02089867,an American breed of foxhound
+n02089973,an English breed slightly larger than the American foxhounds originally used to hunt in packs
+n02090379,a speedy red or red-and-tan American hound
+n02090622,tall fast-moving dog breed
+n02090721,large breed of hound with a rough thick coat
+n02091032,a toy dog developed from the greyhound
+n02091134,small slender dog of greyhound type developed in England
+n02091244,breed of slender agile medium-sized hound found chiefly in the Balearic Islands; said to have been bred originally by the Pharaohs of ancient Egypt
+n02091467,breed of compact medium-sized dog with a heavy grey coat developed in Norway for hunting elk
+n02091635,hardy British hound having long pendulous ears and a thick coarse shaggy coat with an oily undercoat; bred for hunting otters
+n02091831,old breed of tall swift keen-eyed hunting dogs resembling greyhounds; from Egypt and southwestern Asia
+n02092002,very large and tall rough-coated dog bred for hunting deer; known as the royal dog of Scotland
+n02092339,large breed of hound having a smooth greyish coat; originated in Germany
+n02093256,English breed of strong stocky dog having a broad skull and smooth coat
+n02093428,American breed of muscular terriers with a short close-lying stiff coat
+n02093647,a light terrier groomed to resemble a lamb
+n02093754,small rough-coated terrier of British origin
+n02093859,an Irish breed of medium-sized terriers with a silky blue-grey coat
+n02093991,medium-sized breed with a wiry brown coat; developed in Ireland
+n02094114,English breed of small terrier with a straight wiry grizzled coat and dropped ears
+n02094258,English breed of small short-legged terrier with a straight wiry red or grey or black-and-tan coat and erect ears
+n02094433,very small breed having a long glossy coat of bluish-grey and tan
+n02095314,a fox terrier with wiry hair
+n02095570,breed of wire-haired terrier originally from the Lake District of England and used for hunting
+n02095889,a wire-haired terrier with short legs that was first bred in Sealyham
+n02096051,breed of large wiry-coated terrier bred in Yorkshire
+n02096177,small rough-haired breed of terrier from Scotland
+n02096294,small greyish wire-haired breed of terrier from Australia similar to the cairn
+n02096437,a breed of small terrier with long wiry coat and drooping ears
+n02096585,small pug-faced American terrier breed having a smooth brindle or black coat with white markings
+n02097047,a small schnauzer
+n02097130,a large schnauzer
+n02097209,a medium-sized schnauzer
+n02097298,old Scottish breed of small long-haired usually black terrier with erect tail and ears
+n02097474,breed of medium-sized terriers bred in Tibet resembling Old English sheepdogs with fluffy curled tails
+n02097658,Australian breed of toy dogs having a silky blue coat
+n02098105,Irish breed of medium-sized terrier with an abundant coat any shade of wheat and very hairy head and muzzle
+n02098286,small white long-coated terrier developed in Scotland
+n02098413,a breed of terrier having a long heavy coat raised in Tibet as watchdogs
+n02099267,an English breed having a shiny black or liver-colored coat; retrieves game from land or water
+n02099429,an English breed having a tightly curled black or liver-colored coat; retrieves game from land or water
+n02099601,an English breed having a long silky golden coat
+n02099712,breed originally from Labrador having a short black or golden-brown coat
+n02099849,American breed having a short thick oily coat ranging from brown to light tan
+n02100236,liver or liver-and-white hunting dog developed in Germany; 3/4 pointer and 1/4 bloodhound
+n02100583,Hungarian hunting dog resembling the Weimaraner but having a rich deep red coat
+n02100735,an English breed having a plumed tail and a soft silky coat that is chiefly white
+n02100877,an Irish breed with a chestnut-brown or mahogany-red coat
+n02101006,a Scottish breed with a black-and-tan coat
+n02101388,tall active short-tailed French breed of bird dog having a usually smooth orange- or liver-and-white coat
+n02101556,a thickset spaniel with longish silky hair
+n02102040,a breed having typically a black-and-white coat
+n02102177,a red-and-white breed slightly smaller than the English springer spaniel
+n02102318,a small breed with wavy silky hair; originally developed in England
+n02102480,an English breed with short legs and a golden liver-colored coat
+n02102973,breed of large spaniels developed in Ireland having a heavy coat of liver-colored curls and a topknot of long curls and a nearly hairless tail
+n02104029,long-established Hungarian breed of tall light-footed but sturdy white dog; used also as a hunting dog
+n02104365,breed of small stocky black dogs originally used as watchdogs on boats in the Netherlands and Belgium
+n02105056,black-coated sheepdog with a heavily plumed tail
+n02105162,fawn-colored short-haired sheepdog
+n02105251,old French breed of large strong usually black dogs having a long tail and long wavy and slightly stiff coat
+n02105412,an Australian sheepdog with pointed ears
+n02105505,Hungarian breed of large powerful shaggy-coated white dog; used also as guard dog
+n02105641,large sheepdog with a profuse shaggy bluish-grey-and-white coat and short tail; believed to trace back to the Roman occupation of Britain
+n02105855,a small sheepdog resembling a collie that was developed in the Shetland Islands
+n02106030,a silky-coated sheepdog with a long ruff and long narrow head developed in Scotland
+n02106166,developed in the area between Scotland and England usually having a black coat with white on the head and tip of tail used for herding both sheep and cattle
+n02106382,rough-coated breed used originally in Belgium for herding and guarding cattle
+n02106550,German breed of large vigorous short-haired cattle dogs
+n02106662,breed of large shepherd dogs used in police work and as a guide for the blind
+n02107142,medium large breed of dog of German origin with a glossy black and tan coat; used as a watchdog
+n02107312,small German version of a Doberman pinscher
+n02107574,the largest of the four Swiss breeds
+n02107683,large powerful long-haired black-coated Swiss dog with deep tan or russet markings on legs and white blaze and feet and chest marking; formerly used for draft
+n02107908,a smaller of the four Swiss breeds
+n02108000,the smallest of the Sennenhunde
+n02108089,a breed of stocky medium-sized short-haired dog with a brindled coat and square-jawed muzzle developed in Germany
+n02108422,large powerful breed developed by crossing the bulldog and the mastiff
+n02108551,very large powerful rough-coated dog native to central Asia
+n02108915,small stocky version of the bulldog having a sleek coat and square head
+n02109047,very large powerful smooth-coated breed of dog
+n02109525,a Swiss alpine breed of large powerful dog with a thick coat of hair used as a rescue dog
+n02109961,breed of heavy-coated Arctic sled dog
+n02110063,breed of sled dog developed in Alaska
+n02110185,breed of sled dog developed in northeastern Siberia; they resemble the larger Alaskan malamutes
+n02110341,a large breed having a smooth white coat with black or brown spots; originated in Dalmatia
+n02110627,European breed of small dog resembling a terrier with dark wiry hair and a tufted muzzle
+n02110806,small smooth-haired breed of African origin having a tightly curled tail and the inability to bark
+n02110958,small compact smooth-coated breed of Asiatic origin having a tightly curled tail and broad flat wrinkled muzzle
+n02111129,a large dog (usually with a golden coat) produced by crossing a St Bernard and a Newfoundland
+n02111277,a breed of very large heavy dogs with a thick coarse usually black coat; highly intelligent dogs and vigorous swimmers; developed in Newfoundland
+n02111500,bred of large heavy-coated white dogs resembling the Newfoundland
+n02111889,Siberian breed of white or cream-colored dog of the spitz family
+n02112018,breed of very small compact long-haired dogs of the spitz type
+n02112137,breed of medium-sized dogs with a thick coat and fluffy curled tails and distinctive blue-black tongues; believed to have originated in northern China
+n02112350,a spitz-like dog having a shaggy greyish coat and tightly curled tail originating in Holland
+n02112706,a variety of Brussels griffon having a short smooth coat
+n02113023,the smaller and straight-legged variety of corgi having pointed ears and a short tail
+n02113186,slightly bowlegged variety of corgi having rounded ears and a long tail
+n02113624,the breed of very small poodles
+n02113712,a breed of small poodles
+n02113799,a breed or medium-sized poodles
+n02113978,any of an old breed of small nearly hairless dogs of Mexico
+n02114367,a wolf with a brindled grey coat living in forested northern regions of North America
+n02114548,wolf of Arctic North America having white fur and a black-tipped tail
+n02114712,reddish-grey wolf of southwestern North America
+n02114855,small wolf native to western North America
+n02115641,wolflike yellowish-brown wild dog of Australia
+n02115913,fierce wild dog of the forests of central and southeast Asia that hunts in packs
+n02116738,a powerful doglike mammal of southern and eastern Africa that hunts in large packs; now rare in settled area
+n02117135,doglike nocturnal mammal of Africa and southern Asia that feeds chiefly on carrion
+n02119022,the common Old World fox; having reddish-brown fur; commonly considered a single circumpolar species
+n02119789,small grey fox of southwestern United States; may be a subspecies of Vulpes velox
+n02120079,thickly-furred fox of Arctic regions; brownish in summer and white in winter
+n02120505,dark grey American fox; from Central America through southern United States
+n02123045,a cat with a grey or tawny coat mottled with black
+n02123159,a cat having a striped coat
+n02123394,a long-haired breed of cat
+n02123597,a slender short-haired blue-eyed breed of cat having a pale coat with dark ears paws face and tail tip
+n02124075,a domestic cat of Egypt
+n02125311,large American feline resembling a lion
+n02127052,short-tailed wildcats with usually tufted ears; valued for their fur
+n02128385,large feline of African and Asian forests usually having a tawny coat with black spots
+n02128757,large feline of upland central Asia having long thick whitish fur
+n02128925,a large spotted feline of tropical America similar to the leopard; in some classifications considered a member of the genus Felis
+n02129165,large gregarious predatory feline of Africa and India having a tawny coat with a shaggy mane in the male
+n02129604,large feline of forests in most of Asia having a tawny coat with black stripes; endangered
+n02130308,long-legged spotted cat of Africa and southwestern Asia having nonretractile claws; the swiftest mammal; can be trained to run down game
+n02132136,large ferocious bear of Eurasia
+n02133161,brown to black North American bear; smaller and less ferocious than the brown bear
+n02134084,white bear of Arctic regions
+n02134418,common coarse-haired long-snouted bear of south-central Asia
+n02137549,agile grizzled Old World viverrine; preys on snakes and rodents
+n02138441,a mongoose-like viverrine of South Africa having a face like a lemur and only four toes
+n02165105,active usually bright-colored beetle that preys on other insects
+n02165456,small round bright-colored and spotted beetle that usually feeds on aphids and other insect pests
+n02167151,predacious shining black or metallic terrestrial beetle that destroys many injurious insects
+n02168699,long-bodied beetle having very long antennae
+n02169497,brightly colored beetle that feeds on plant leaves; larvae infest roots and stems
+n02172182,any of numerous beetles that roll balls of dung on which they feed and in which they lay eggs
+n02174001,any of various large chiefly tropical beetles having horns on the head; pest on coconuts
+n02177972,any of several families of mostly small beetles that feed on plants and plant products; especially snout beetles and seed beetles
+n02190166,two-winged insects characterized by active flight
+n02206856,any of numerous hairy-bodied insects including social and solitary species
+n02219486,social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the workers
+n02226429,terrestrial plant-eating insect with hind legs adapted for leaping
+n02229544,leaping insect; male makes chirping noises by rubbing the forewings together
+n02231487,any of various mostly tropical insects having long twiglike bodies
+n02233338,any of numerous chiefly nocturnal insects; some are domestic pests
+n02236044,predacious long-bodied large-eyed insect of warm regions; rests with forelimbs raised as in prayer
+n02256656,stout-bodied insect with large membranous wings; male has drum-like organs for producing a high-pitched drone
+n02259212,small leaping insect that sucks the juices of plants
+n02264363,any of two families of insects with gauzy wings (Chrysopidae and Hemerobiidae); larvae feed on insect pests such as aphids
+n02268443,slender-bodied non-stinging insect having iridescent wings that are outspread at rest; adults and nymphs feed on mosquitoes etc.
+n02268853,slender non-stinging insect similar to but smaller than the dragonfly but having wings folded when at rest
+n02276258,any of several brightly colored butterflies
+n02277742,any of various butterflies belonging to the family Satyridae
+n02279972,large migratory American butterfly having deep orange wings with black and white markings; the larvae feed on milkweed
+n02280649,white butterfly whose larvae (cabbageworms) feed on cabbage
+n02281406,any of numerous yellow or orange butterflies
+n02281787,any of various butterflies of the family Lycaenidae
+n02317335,echinoderms characterized by five arms extending from a central disk
+n02319095,shallow-water echinoderms having soft bodies enclosed in thin spiny globular shells
+n02321529,echinoderm having a flexible sausage-shaped body, tentacles surrounding the mouth and tube feet; free-living mud feeders
+n02325366,common small rabbit of North America having greyish or brownish fur and a tail with a white underside; a host for Ixodes pacificus and Ixodes scapularis (Lyme disease ticks)
+n02326432,swift timid long-eared mammal larger than a rabbit having a divided upper lip and long hind legs; young born furred and with open eyes
+n02328150,domestic breed of rabbit with long white silky hair
+n02342885,short-tailed Old World burrowing rodent with large cheek pouches
+n02346627,relatively large rodents with sharp erectile bristles mingled with the fur
+n02356798,exceptionally large arboreal squirrel of eastern United States
+n02361337,stocky coarse-furred burrowing rodent with a short bushy tail found throughout the northern hemisphere; hibernates in winter
+n02363005,large semiaquatic rodent with webbed hind feet and a broad flat tail; construct complex dams and underwater lodges
+n02364673,stout-bodied nearly tailless domesticated cavy; often kept as a pet and widely used in research
+n02389026,a horse of a brownish orange to light brown color
+n02391049,any of several fleet black-and-white striped African equines
+n02395406,domestic swine
+n02396427,Old World wild swine having a narrow body and prominent tusks from which most domestic swine come; introduced in United States
+n02397096,African wild swine with warty protuberances on the face and large protruding tusks
+n02398521,massive thick-skinned herbivorous animal living in or around rivers of tropical Africa
+n02403003,an adult castrated bull of the genus Bos; especially Bos taurus
+n02408429,an Asian buffalo that is often domesticated for use as a draft animal
+n02410509,any of several large humped bovids having shaggy manes and large heads and short horns
+n02412080,uncastrated adult male sheep
+n02415577,wild sheep of mountainous regions of western North America having massive curled horns
+n02417914,wild goat of mountain areas of Eurasia and northern Africa having large recurved horns
+n02422106,a large African antelope with lyre-shaped horns that curve backward
+n02422699,African antelope with ridged curved horns; moves with enormous leaps
+n02423022,small swift graceful antelope of Africa and Asia having lustrous eyes
+n02437312,one-humped camel of the hot deserts of northern Africa and southwestern Asia
+n02437616,wild or domesticated South American cud-chewing animal related to camels but smaller and lacking a hump
+n02441942,small carnivorous mammal with short legs and elongated body and neck
+n02442845,slender-bodied semiaquatic mammal having partially webbed feet; valued for its fur
+n02443114,dark brown mustelid of woodlands of Eurasia that gives off an unpleasant odor when threatened
+n02443484,musteline mammal of prairie regions of United States; nearly extinct
+n02444819,freshwater carnivorous mammal having webbed and clawed feet and dark brown fur
+n02445715,American musteline mammal typically ejecting an intensely malodorous fluid when startled; in some classifications put in a separate subfamily Mephitinae
+n02447366,sturdy carnivorous burrowing mammal with strong claws; widely distributed in the northern hemisphere
+n02454379,burrowing chiefly nocturnal mammal with body covered with strong horny plates
+n02457408,a sloth that has three long claws on each forefoot and each hindfoot
+n02480495,large long-armed ape of Borneo and Sumatra having arboreal habits
+n02480855,largest anthropoid ape; terrestrial and vegetarian; of forests of central west Africa
+n02481823,intelligent somewhat arboreal ape of equatorial African forests
+n02483362,smallest and most perfectly anthropoid arboreal ape having long arms and no tail; of southern Asia and East Indies
+n02483708,large black gibbon of Sumatra having the 2nd and 3rd toes partially united by a web
+n02484975,small slender African monkey having long hind limbs and tail and long hair around the face
+n02486261,reddish long-tailed monkey of west Africa
+n02486410,large terrestrial monkeys having doglike muzzles
+n02487347,short-tailed monkey of rocky regions of Asia and Africa
+n02488291,slender long-tailed monkey of Asia
+n02488702,arboreal monkey of western and central Africa with long silky fur and reduced thumbs
+n02489166,Borneo monkey having a long bulbous nose
+n02490219,small soft-furred South American and Central American monkey with claws instead of nails
+n02492035,monkey of Central America and South America having thick hair on the head that resembles a monk's cowl
+n02492660,monkey of tropical South American forests having a loud howling cry
+n02493509,small South American monkeys with long beautiful fur and long nonprehensile tail
+n02493793,arboreal monkey of tropical America with long slender legs and long prehensile tail
+n02494079,small long-tailed monkey of Central American and South America with greenish fur and black muzzle
+n02497673,small lemur having its tail barred with black
+n02500267,large short-tailed lemur of Madagascar having thick silky fur in black and white and fawn
+n02504013,Asian elephant having smaller ears and tusks primarily in the male
+n02504458,an elephant native to Africa having enormous flapping ears and ivory tusks
+n02509815,reddish-brown Old World raccoon-like carnivore; in some classifications considered unrelated to the giant pandas
+n02510455,large black-and-white herbivorous mammal of bamboo forests of China and Tibet; in some classifications considered a member of the bear family or of a separate family Ailuropodidae
+n02514041,a large marine food fish common on the coasts of Australia, New Zealand, and southern Africa
+n02526121,voracious snakelike marine or freshwater fishes with smooth slimy usually scaleless skin and having a continuous vertical fin but no ventral fins
+n02536864,small salmon of northern Pacific coasts and the Great Lakes
+n02606052,gold and black butterflyfish found from West Indies to Brazil
+n02607072,live associated with sea anemones
+n02640242,large primitive fishes valued for their flesh and roe; widely distributed in the North Temperate Zone
+n02641379,primitive predaceous North American fish covered with hard scales and having long jaws with needlelike teeth
+n02643566,brightly striped fish of the tropical Pacific having elongated spiny fins
+n02655020,any of numerous marine fishes whose elongated spiny body can inflate itself with water or air to form a globe; several species contain a potent nerve poison; closely related to spiny puffers
+n02666196,a calculator that performs arithmetic functions by manually sliding counters on rods or in grooves
+n02667093,(Arabic) a loose black robe from head to toe; traditionally worn by Muslim women
+n02669723,a gown worn by academics or judges
+n02672831,a portable box-shaped free-reed instrument; the reeds are made to vibrate by air from the bellows controlled by the player
+n02676566,sound is not amplified by electrical means
+n02687172,a large warship that carries planes and has a long flat deck for takeoffs and landings
+n02690373,a commercial airplane that carries passengers
+n02692877,a steerable self-propelled aircraft
+n02699494,a raised structure on which gifts or sacrifices to a god are made
+n02701002,a vehicle that takes people to and from hospitals
+n02704792,a flat-bottomed motor vehicle that can travel on land or water
+n02708093,a clock that displays the time of day by the position of hands on a dial
+n02727426,a shed containing a number of beehives
+n02730930,a garment of cloth or leather or plastic that is tied about the waist and worn to protect your clothing
+n02747177,a bin that holds rubbish until it is collected
+n02749479,any of the automatic rifles or semiautomatic rifles with large magazines designed for military use
+n02769748,a bag carried by a strap on your back or shoulder
+n02776631,a workplace where baked goods (breads and cakes and pastries) are produced or sold
+n02777292,a gymnastic apparatus used by women gymnasts
+n02782093,large tough nonrigid bag filled with gas or heated air
+n02783161,a pen that has a small metal ball as the point of transfer of ink to paper
+n02786058,trade name for an adhesive bandage to cover small cuts or blisters
+n02787622,a stringed instrument of the guitar family that has long neck and circular body
+n02788148,a railing at the side of a staircase or balcony to prevent people from falling
+n02790996,a bar to which heavy discs are attached at each end; used in weightlifting
+n02791124,a large fixed adjustable chair in which barbers seat their customers
+n02791270,a shop where men can get their hair cut
+n02793495,an outlying farm building for storing grain or animal feed and housing farm animals
+n02794156,an instrument that measures atmospheric pressure
+n02795169,a cylindrical container that holds liquids
+n02797295,a cart for carrying small loads; has handles and one or more wheels
+n02799071,a ball used in playing baseball
+n02802426,an inflated ball used in playing basketball
+n02804414,a basket (usually hooded) used as a baby's bed
+n02804610,a double-reed instrument; the tenor of the oboe family
+n02807133,a tight-fitting cap that keeps hair dry while swimming
+n02808304,a large towel; to dry yourself after a bath
+n02808440,a relatively large open container that you fill with water and use to wash the body
+n02814533,a car that has a long body and rear door with space behind rear seat
+n02814860,a tower with a light that gives warning of shoals to passing ships
+n02815834,a flatbottomed jar made of glass or plastic; used for chemistry
+n02817516,tall hat; worn by some British soldiers on ceremonial occasions
+n02823428,a bottle that holds beer
+n02823750,a relatively large glass for serving beer
+n02825657,a small shelter for bells; has a gable or shed roof
+n02834397,top part of an apron; covering the chest
+n02835271,a bicycle with two sets of pedals and two seats
+n02837789,a woman's very brief bathing suit
+n02840245,holds loose papers or magazines
+n02841315,an optical instrument designed for simultaneous use by both eyes
+n02843684,a shelter for birds
+n02859443,a shed at the edge of a river or lake; used to store boats
+n02860847,a long racing sled (for 2 or more people) with a steering mechanism
+n02865351,a cord fastened around the neck with an ornamental clasp and worn as a necktie
+n02869837,a hat tied under the chin
+n02870880,a piece of furniture with shelves for storing books
+n02871525,a shop where books are sold
+n02877765,a cap that seals a bottle
+n02879718,a weapon for shooting arrows, composed of a curved piece of resilient wood with a taut cord to propel the arrow
+n02883205,a man's tie that ties in a bow
+n02892201,a memorial made of brass
+n02892767,an undergarment worn by women to support their breasts
+n02894605,a protective structure of stone or concrete; extends from shore into the water to prevent a beach from washing away
+n02895154,armor plate that protects the chest; the front part of a cuirass
+n02906734,a cleaning implement for sweeping; bundle of straws or twigs attached to a long handle
+n02909870,a roughly cylindrical vessel that is open at the top
+n02910353,fastener that fastens together two ends of a belt or strap; often has loose prong
+n02916936,a vest capable of resisting the impact of a bullet
+n02917067,a high-speed passenger train
+n02927161,a shop in which meat and poultry (and sometimes fish) are sold
+n02930766,a car driven by a person whose job is to take passengers where they want to go in exchange for money
+n02939185,a very large pot that is used for boiling
+n02948072,stick of wax with a wick in the middle
+n02950826,heavy gun fired from a tank
+n02951358,small and light boat; pointed at both ends; propelled with a paddle
+n02951585,a device for cutting cans open
+n02963159,knitted jacket that is fastened up the front with buttons or a zipper
+n02965783,a mirror that the driver of a car can use
+n02966193,a large, rotating machine with seats for children to ride or amusement
+n02966687,a set of carpenter's tools
+n02971356,a box made of cardboard; opens by flaps on top
+n02974003,a wheel that has a tire and rim and hubcap; used to propel the car
+n02977058,an unattended machine (outside some banks) that dispenses money when a personal coded card is used
+n02978881,a container that holds a magnetic tape used for recording or playing sound or video
+n02979186,electronic equipment for playing cassettes
+n02980441,a large building formerly occupied by a ruler and fortified against attack
+n02981792,a sailboat with two parallel hulls held together by single deck
+n02988304,a stand-alone piece of electronic equipment that either has its own display or attaches to a television set
+n02992211,a large stringed instrument; seated player holds it upright while playing
+n02992529,a hand-held mobile radiotelephone for use in an area divided into small sections, each with its own short-range transmitter/receiver
+n02999410,a series of (usually metal) rings or links fitted into one another to make a flexible ligament
+n03000134,a fence of steel wires woven into a diamond pattern
+n03000247,(Middle Ages) flexible armor made of interlinked metal rings
+n03000684,portable power saw; teeth linked to form an endless chain
+n03014705,box with a lid; used for storage; usually large and sturdy
+n03016953,a tall elegant chest of drawers
+n03017168,a percussion instrument consisting of a set of tuned bells that are struck with a hammer; used as an orchestral instrument
+n03018349,a cabinet (usually with glass doors) for storing and displaying china
+n03026506,a stocking that is filled with small Christmas presents
+n03028079,a place for public (especially Christian) worship
+n03032252,a theater where films are shown
+n03041632,a butcher's knife having a large square blade
+n03042490,a rock and adobe dwelling built on sheltered ledges in the sides of a cliff
+n03045698,anything that covers or conceals
+n03047690,footwear usually with wooden soles
+n03062245,a shaker for mixing cocktails
+n03063599,a mug intended for serving coffee
+n03063689,tall pot in which coffee is brewed
+n03065424,a structure consisting of something wound in a continuous series of loops
+n03075370,lock that can be opened only by turning dials in a special sequence
+n03085013,a keyboard that is a data input device for computers; arrangement of keys is modelled after the typewriter keyboard
+n03089624,a confectioner's shop
+n03095699,a cargo ship designed to hold containerized cargoes
+n03100240,a car that has top that can be folded or removed
+n03109150,a bottle opener that pulls corks
+n03110669,a brass musical instrument with a brilliant tone; has a narrow tube and a flared bell and is played by means of valves
+n03124043,a boot with a high arch and fancy stitching; worn by American cowboys
+n03124170,a hat with a wide brim and a soft crown; worn by American ranch hands
+n03125729,a baby bed with sides and rockers
+n03126707,lifts and moves heavy objects; lifting tackle is suspended from a pivoted boom that rotates around a vertical axis
+n03127747,a padded helmet worn by people riding bicycles or motorcycles; protects the head in case of accidents
+n03127925,a rugged box (usually made of wood); used for shipping
+n03131574,baby bed with high sides made of slats
+n03133878,an electric cooker that maintains a relatively low temperature
+n03134739,a wooden ball used in playing croquet
+n03141823,a wooden or metal staff that fits under the armpit and reaches to the ground; used by disabled person while walking
+n03146219,medieval body armor that covers the chest and back
+n03160309,a barrier constructed to contain the flow of water or to keep out the sea
+n03179701,a piece of furniture with a writing surface and usually drawers or other compartments
+n03180011,a personal computer small enough to fit conveniently in an individual workspace
+n03187595,a telephone with a dial for registering the number to be called
+n03188531,garment consisting of a folded cloth drawn up between the legs and fastened at the waist; worn by infants to catch excrement
+n03196217,a clock that displays the time of day digitally
+n03197337,a watch with a digital display
+n03201208,a table at which meals are served
+n03207743,a cloth for washing dishes
+n03207941,a machine for washing dishes
+n03208938,hydraulic brake in which friction is applied to both sides of a spinning disk by the brake pads
+n03216828,landing in a harbor next to a pier where ships are loaded and unloaded or repaired; may have gates to let water in or out
+n03218198,a sled pulled by dogs
+n03220513,a hemispherical roof
+n03223299,a mat placed outside an exterior door for wiping the shoes before entering
+n03240683,drilling rig consisting of an offshore platform (floating or fixed to the sea bed) from which many oil wells can be bored radially
+n03249569,a musical percussion instrument; usually consists of a hollow cylinder with a membrane stretched across each end
+n03250847,a stick used for playing a drum
+n03255030,an exercising weight; two spheres connected by a short bar that serves as a handle
+n03259280,an oven consisting of a metal box for cooking in front of a fire
+n03271574,a fan run by an electric motor
+n03272010,a guitar whose sound is amplified by electrical means
+n03272562,a locomotive that is powered by an electric motor
+n03290653,a wall unit containing sound and television systems
+n03291819,a flat (usually rectangular) container for a letter, thin package, etc.
+n03297495,a coffee maker that forces live steam under pressure through dark roasted coffee grounds
+n03314780,cosmetic powder for the face
+n03325584,a long thin fluffy scarf of feathers or fur
+n03337140,office furniture consisting of a container for keeping papers in order
+n03344393,a boat equipped to fight fires on ships or along a waterfront
+n03345487,any of various large trucks that carry firemen and equipment to the site of a fire
+n03347037,a metal screen before an open fire for protection (especially against flying sparks)
+n03355925,a tall staff or pole on which a flag is raised
+n03372029,a high-pitched woodwind instrument; a slender tube closed at one end with finger holes on one end and an opening near the closed end across which the breath is blown
+n03376595,a chair that can be folded flat for storage
+n03379051,a padded helmet with a face mask to protect the head of football players
+n03384352,a small industrial vehicle with a power operated forked platform in front that can be inserted under loads to lift and move them
+n03388043,a structure from which an artificially produced jet of water arises
+n03388183,a pen that is supplied with ink from a reservoir in its barrel
+n03388549,a bed with posts at the four corners that can be used to support a canopy or curtains
+n03393912,a railway car that carries freight
+n03394916,a brass musical instrument consisting of a conical tube that is coiled into a spiral and played by means of valves
+n03400231,a pan used for frying foods
+n03404251,a coat made of fur
+n03417042,a truck for collecting domestic refuse
+n03424325,a protective mask with a filter; protects the face and lungs against poisonous gases
+n03425413,a pump in a service station that draws gasoline from underground storage tanks
+n03443371,a drinking glass with a base and stem
+n03444034,a small low motor vehicle with four wheels and an open framework; used for racing
+n03445777,a small hard ball used in playing golf; dimpled to reduce wind resistance
+n03445924,a small motor vehicle in which golfers can ride between shots
+n03447447,long narrow flat-bottomed boat propelled by sculling; traditionally used on canals of Venice
+n03447721,a percussion instrument consisting of a metal plate that is struck with a softheaded drumstick
+n03450230,a woman's dress, usually with a close-fitting bodice and a long flared skirt, often worn on formal occasions
+n03452741,a piano with the strings on a horizontal harp-shaped frame; usually supported by three legs
+n03457902,a building with glass walls and roof; for the cultivation and exhibition of plants under controlled conditions
+n03459775,grating that admits cooling air to car's radiator
+n03461385,a marketplace where groceries are sold
+n03467068,instrument of execution that consists of a weighted blade between two vertical poles; used for beheading people
+n03476684,a decorative hinged clip that girls and women put in their hair to hold it in place
+n03476991,toiletry consisting of a commercial preparation that is sprayed on the hair to hold it in place
+n03478589,a motor vehicle propelled by half tracks; frequently used by the military
+n03481172,a hand tool with a heavy rigid head and a handle; used to deliver an impulsive force by striking
+n03482405,a basket usually with a cover
+n03483316,a hand-held electric blower that can blow warm air onto the hair; used for styling hair
+n03485407,a portable battery-powered computer small enough to be carried in your pocket
+n03485794,a square piece of cloth used for wiping the eyes or nose or as a costume accessory
+n03492542,a rigid magnetic disk mounted permanently in a drive unit
+n03494278,a small rectangular free-reed instrument having a row of free reeds set back in air holes and played by blowing into the desired hole
+n03495258,a chordophone that has a triangular frame consisting of a sounding board and a pillar and a curved neck; the strings stretched between the neck and the soundbox are plucked with the fingers
+n03496892,farm machine that gathers a food crop from the fields
+n03498962,a small ax with a short handle used with one hand (usually to chop wood)
+n03527444,a sheath (usually leather) for carrying a handgun
+n03529860,television and video equipment designed to reproduce in the home the experience of being in a movie theater
+n03530642,a framework of hexagonal cells resembling the honeycomb built by bees
+n03532672,a mechanical device that is curved or bent to suspend or hold or pull something
+n03534580,a skirt stiffened with hoops
+n03535780,gymnastic apparatus consisting of a bar supported in a horizontal position by uprights at both ends
+n03538406,heavy cart; drawn by a horse; used for farm work
+n03544143,a sandglass that runs for sixty minutes
+n03584254,(trademark) a pocket-sized device used to play music files
+n03584829,home appliance consisting of a flat metal base that is heated and used to smooth cloth
+n03590841,lantern carved from a pumpkin
+n03594734,(usually plural) close-fitting trousers of heavy denim for manual work or casual wear
+n03594945,a car suitable for traveling over rough terrain
+n03595614,a close-fitting pullover shirt
+n03598930,a puzzle that requires you to reassemble a picture that has been mounted on a stiff base and cut into interlocking pieces
+n03599486,a small two-wheeled cart for one passenger; pulled by one person
+n03602883,a manual control consisting of a vertical handle that can move freely in two directions; used as an input device to computers or to devices controlled by computers
+n03617480,a loose robe; imitated from robes originally worn by Japanese
+n03623198,protective garment consisting of a pad worn by football or baseball or hockey players
+n03627232,any of various fastenings formed by looping and tying a rope (or cord) upon itself or to another rope or to another object
+n03630383,a light coat worn to protect clothing from substances used while working in a laboratory
+n03633091,a spoon-shaped vessel with a long handle; frequently used to transfer liquids from one container to another
+n03637318,a protective ornamental shade used to screen a light bulb from direct view
+n03642806,a portable computer small enough to use in your lap
+n03649909,garden tool for mowing grass on lawns
+n03657121,cap used to keep lens free of dust when not in use
+n03658185,dull knife used to cut open the envelopes in which letters are mailed or to slit uncut pages of books
+n03661043,a building that houses a collection of books and other materials
+n03662601,a strong sea boat designed to rescue people from a sinking ship
+n03666591,a device for lighting or igniting fuel or charges or fires
+n03670208,large luxurious car; usually driven by a chauffeur
+n03673027,a large commercial ship (especially one that carries passengers on a regular schedule)
+n03676483,makeup that is used to color the lips
+n03680355,a low leather step-in shoe; the top resembles a moccasin but it has a broad flat heel
+n03690938,any of various cosmetic preparations that are applied to the skin
+n03691459,electro-acoustic transducer that converts electrical signals into sounds loud enough to be heard at a distance
+n03692522,small magnifying glass (usually set in an eyepiece) used by jewelers and horologists
+n03697007,a mill for dressing logs and lumber
+n03706229,compass based on an indicator (as a magnetic needle) that points to the magnetic north
+n03709823,letter carrier's shoulder bag
+n03710193,a private box for delivery of mail
+n03710637,tights for dancers or gymnasts
+n03710721,a woman's one-piece bathing suit
+n03717622,a flush iron cover for a manhole (as in a street)
+n03720891,a percussion instrument consisting of a hollow gourd containing pebbles or beans; often played in pairs
+n03721384,a percussion instrument with wooden bars tuned to produce a chromatic scale and with resonators; played with small mallets
+n03724870,a covering to disguise or conceal the face
+n03729826,a short thin stick of wood used in making matches
+n03733131,a vertical pole or post decorated with streamers that can be held by dancers celebrating May Day
+n03733281,complex system of paths or tunnels in which it is easy to get lost
+n03733805,graduated cup used to measure liquid or granular ingredients
+n03742115,cabinet that holds medicines and toiletries
+n03743016,memorial consisting of a very large stone forming part of a prehistoric structure (especially in western Europe)
+n03759954,device for converting sound waves into electrical energy
+n03761084,kitchen appliance that cooks food by passing an electromagnetic wave through it; heat results from the absorption of energy by the water molecules in the food
+n03763968,prescribed identifying uniform for soldiers
+n03764736,large can for transporting milk
+n03769881,a light bus (4 to 10 passengers)
+n03770439,a very short skirt
+n03770679,a small box-shaped passenger van; usually has removable seats; used as a family car
+n03773504,a rocket carrying a warhead of conventional or nuclear explosives; may be ballistic or directed by remote control
+n03775071,glove that encases the thumb separately and the other four fingers together
+n03775546,bowl used with an electric mixer
+n03776460,a large house trailer that can be connected to utilities and can be parked in one place and used as permanent housing
+n03777568,the first widely available automobile powered by a gasoline engine; mass-produced by Henry Ford from 1908 to 1927
+n03777754,(from a combination of MOdulate and DEModulate) electronic equipment consisting of a device used to connect computers by a telephone line
+n03781244,the residence of a religious community
+n03782006,electronic equipment that is used to check the quality or content of electronic transmissions
+n03785016,a motorbike that can be pedaled or driven by a low-powered gasoline engine
+n03786901,a bowl-shaped vessel in which substances can be ground and mixed with a pestle
+n03787032,an academic cap with a flat square with a tassel on top
+n03788195,(Islam) a Muslim place of worship that usually has a minaret
+n03788365,a fine net or screen (especially around beds) to protect against mosquitos
+n03791053,a wheeled vehicle with small wheels and a low-powered gasoline engine geared to the rear wheel
+n03792782,a bicycle with a sturdy frame and fat tires; originally designed for riding in mountainous country
+n03792972,a lightweight tent with a floor; flaps close with a zipper
+n03793489,a hand-operated electronic device that controls the coordinates of a cursor on your computer screen as you move it around on a pad; on the bottom of the device is a ball that rolls on the surface of the pad
+n03794056,a trap for catching mice
+n03796401,a van used for moving home or office furniture
+n03803284,a leather or wire restraint that fits over an animal's snout (especially a dog's nose and jaws) and prevents it from eating or biting
+n03804744,a thin pointed piece of metal that is hammered into materials as a fastener
+n03814639,a brace worn to steady the neck
+n03814906,jewelry consisting of a cord or chain (often bearing gems) worn about the neck as an ornament (especially by women)
+n03825788,a flexible cap on a baby's feeding bottle or pacifier
+n03832673,a small compact portable computer
+n03837869,a stone pillar having a rectangular cross section tapering towards a pyramidal top
+n03838899,a slender double-reed instrument; a woodwind with a conical bore and a double-reed mouthpiece
+n03840681,egg-shaped terra cotta wind instrument with a mouthpiece and finger holes
+n03841143,a meter that shows mileage traversed
+n03843555,a filter that removes impurities from the oil used to lubricate an internal-combustion engine
+n03854065,wind instrument whose sound is produced by means of pipes arranged in sets supplied with air from a bellows and controlled from a large complex musical keyboard
+n03857828,electronic equipment that provides visual images of varying electrical quantities
+n03866082,an outer skirt worn over another skirt
+n03868242,a cart that is drawn by an ox
+n03868863,a breathing device that is placed over the mouth and nose; supplies oxygen from an attached storage tank
+n03871628,a small package or bundle
+n03873416,a short light oar used without an oarlock to propel a canoe or small boat
+n03874293,a large wheel fitted with paddles and driven by an engine in order to propel a boat
+n03874599,a detachable lock; has a hinged shackle that can be passed through the staple of a hasp or the links in a chain and then snapped shut
+n03876231,a brush used as an applicator (to apply paint)
+n03877472,(usually plural) loose-fitting nightclothes worn for sleeping or lounging; have a jacket top and trousers
+n03877845,official residence of an exalted person (as a sovereign)
+n03884397,a primitive wind instrument consisting of several parallel pipes bound together
+n03887697,a disposable towel made of absorbent paper
+n03888257,rescue equipment consisting of a device that fills with air and retards your fall
+n03888605,gymnastic apparatus consisting of two parallel wooden rods supported on uprights
+n03891251,a bench in a public park
+n03891332,a coin-operated timer located next to a parking space; depositing money into it entitles you to park your car there for a specified length of time
+n03895866,a railcar where passengers ride
+n03899768,usually paved outdoor area adjoining a residence
+n03902125,a coin-operated telephone
+n03903868,an architectural support or base (as for a column or statue)
+n03908618,a box for holding pencils
+n03908714,a rotary implement for sharpening the point on pencils
+n03916031,a toiletry that emits and diffuses a fragrant odor
+n03920288,a shallow dish used to culture bacteria
+n03924679,a copier that uses photographic methods of making copies
+n03929660,a small thin device (of metal or plastic or ivory) used to pluck a stringed instrument
+n03929855,a spiked helmet worn by German soldiers
+n03930313,a fence made of upright pickets
+n03930630,a light truck with an open body and low sides and a tailboard
+n03933933,a support for two adjacent bridge spans
+n03935335,a child's coin bank (often shaped like a pig)
+n03937543,a small bottle for holding pills
+n03938244,a cushion to support the head of a sleeping person
+n03942813,light hollow ball used in playing table tennis
+n03944341,a wheel that has numerous pins that are set at right angles to its rim
+n03947888,a ship that is manned by pirates
+n03950228,an open vessel with a handle and a spout for pouring
+n03954731,a carpenter's hand tool with an adjustable blade for smoothing or shaping wood
+n03956157,a building housing an instrument for projecting the positions of the planets onto a domed ceiling
+n03958227,a bag made of thin plastic material
+n03961711,a rack for holding plates to dry after they have been washed
+n03967562,a farm tool having one or more heavy blades to break the soil and cut a furrow prior to sowing
+n03970156,hand tool consisting of a stick with a rubber suction cup at one end; used to clean clogged drains
+n03976467,a camera that develops and produces a positive print within seconds
+n03976657,a long (usually round) rod of wood or metal or plastic
+n03977966,van used by police to transport prisoners
+n03980874,a blanket-like cloak with a hole in the center for the head
+n03982430,game equipment consisting of a heavy table on which pool is played
+n03983396,a bottle for holding soft drinks
+n03991062,a container in which plants are cultivated
+n03992509,a horizontal rotating wheel holding the clay being shaped by a potter
+n03995372,a power tool for drilling holes into hard materials
+n03998194,a small rug used by Muslims during their devotions
+n04004767,(computer science) an output device that prints the results of data processing
+n04005630,a correctional institution where persons are confined while on trial or for punishment
+n04008634,a weapon that is forcibly thrown or projected at a targets but is not self-propelled
+n04009552,an optical instrument that projects an enlarged image onto a screen
+n04019541,a vulcanized rubber disk 3 inches in diameter that is used instead of a ball in ice hockey
+n04023962,an inflated ball or bag that is suspended and punched for training in boxing
+n04026417,a small bag for carrying money
+n04033901,pen made from a bird's feather
+n04033995,bedding made of two layers of cloth filled with stuffing and stitched together
+n04037443,a fast car that competes in races
+n04039381,a sports implement (usually consisting of a handle and an oval frame with a tightly interlaced network of strings) used to strike a ball (or shuttlecock) in various games
+n04040759,a mechanism consisting of a metal honeycomb through which hot fluids circulate; heat is transferred from the fluid through the honeycomb to the airstream that is created either by the motion of the vehicle or by a fan
+n04041544,a communication system based on broadcasting electromagnetic waves
+n04044716,astronomical telescope that picks up electromagnetic radiations in the radio-frequency range from extraterrestrial sources
+n04049303,a barrel used as a cistern to hold rainwater
+n04065272,a motorized wheeled vehicle used for camping or other recreational activities
+n04067472,winder consisting of a revolving spool with a handle; attached to a fishing rod
+n04069434,camera that allows the photographer to view and focus the exact scene being photographed
+n04070727,white goods in which food can be stored at low temperatures
+n04074963,a device that can be used to control a machine or apparatus from a distance
+n04081281,a building where people go to eat
+n04086273,a pistol with a revolving cylinder (usually having six chambers for bullets)
+n04090263,a shoulder firearm with a long barrel and a rifled bore
+n04099969,a chair mounted on rockers
+n04111531,an oven or broiler equipped with a rotating spit on which meat cooks as it turns
+n04116512,an eraser made of rubber (or of a synthetic material with properties similar to rubber); commonly mounted at one end of a pencil
+n04118538,inflated oval ball used in playing rugby
+n04118776,measuring stick consisting of a strip of wood or metal or plastic with a straight edge that is used for drawing straight lines and measuring lengths
+n04120489,a light comfortable shoe designed for running
+n04125021,strongbox where valuables can be safely kept
+n04127249,a pin in the form of a clasp; has a guard so the point of the pin will not stick the user
+n04131690,a shaker with a perforated top for sprinkling salt
+n04133789,a shoe consisting of a sole fastened by straps to the foot
+n04136333,a loose skirt consisting of brightly colored fabric wrapped around the body; worn by both women and men in the South Pacific
+n04141076,a single-reed woodwind with a conical bore
+n04141327,a sheath for a sword or dagger or bayonet
+n04141975,a measuring instrument for weighing; shows amount of mass
+n04146614,a bus used to transport children to or from school
+n04147183,sailing vessel used in former times
+n04149813,a large board for displaying the score of a contest (and some other information)
+n04152593,the display that is electronically created on the surface of the large end of a cathode-ray tube
+n04153751,a fastener with a tapered threaded shank and a slotted head
+n04154565,a hand tool for driving screws; has a tip that fits into the head of a screw
+n04162706,a safety belt used in a car or plane to hold you in your seat in case of an accident
+n04179913,a textile machine used as a home appliance for sewing
+n04192698,armor carried on the arm to intercept blows
+n04200800,a shop where shoes are sold
+n04201297,a translucent screen made of a wooden frame covered with rice paper
+n04204238,a handbasket used to carry goods while shopping
+n04204347,a handcart that holds groceries or other goods while shopping
+n04208210,a hand tool for lifting loose material; consists of a curved container or scoop and a handle
+n04209133,a tight cap worn to keep hair dry while showering
+n04209239,a curtain that keeps water from splashing out of the shower area
+n04228054,narrow wood or metal or plastic runners used in pairs for gliding over snow
+n04229816,a woolen face mask to protect the face from cold while skiing on snow
+n04235860,large padded bag designed to be slept in outdoors; usually rolls up like a bedroll
+n04238763,analog computer consisting of a handheld instrument used for rapid calculations; have been replaced by pocket calculators
+n04239074,a door that opens by sliding instead of swinging
+n04243546,a slot machine that is used for gambling
+n04251144,breathing device consisting of a bent tube fitting into a swimmer's mouth and extending above the surface; allows swimmer to breathe while face down in the water
+n04252077,tracked vehicle for travel on snow having skis in front
+n04252225,a vehicle used to push snow from roads
+n04254120,dispenser of liquid soap
+n04254680,an inflated ball used in playing soccer
+n04254777,hosiery consisting of a cloth covering for the foot; worn inside the shoe; reaches to between the ankle and the knee
+n04258138,a concave mirror that concentrates the rays of the sun; can produce high temperatures
+n04259630,a straw hat with a tall crown and broad brim; worn in American southwest and in Mexico
+n04263257,a bowl for serving soup
+n04264628,the bar-shaped typewriter key that introduces spaces when used
+n04265275,heater consisting of a self-contained (usually portable) unit to warm a room
+n04266014,a reusable spacecraft with wings for a controlled descent through the Earth's atmosphere
+n04270147,a turner with a narrow flexible blade
+n04273569,a fast motorboat
+n04275548,a web resembling the webs spun by spiders
+n04277352,a stick or pin used to twist the yarn in spinning
+n04285008,a small low car with a high-powered engine; usually seats two persons
+n04286575,a lamp that produces a strong beam of light to illuminate a restricted area; used to focus attention of a stage performer
+n04296562,a large platform on which people can stand and can be seen by an audience
+n04310018,a locomotive powered by a steam engine
+n04311004,a steel bridge constructed in the form of an arch
+n04311174,a concave percussion instrument made from the metal top of an oil drum; has an array of flattened areas that produce different tones when struck (of Caribbean origin)
+n04317175,a medical instrument for listening to the sounds generated inside the body
+n04325704,a wide scarf worn about their shoulders by women
+n04326547,a fence built of rough stones; used to separate fields
+n04328186,a timepiece that can be started or stopped for exact timing (as of a race)
+n04330267,any heating apparatus
+n04332243,a filter to retain larger pieces while smaller pieces and liquids pass through
+n04335435,a wheeled vehicle that runs on rails and is propelled by electricity
+n04336792,a litter for transporting people who are ill or wounded or dead; usually consists of a sheet of canvas stretched between two poles
+n04344873,convertible consisting of an upholstered couch that can be converted into a double bed
+n04346328,a dome-shaped shrine erected by Buddhists
+n04347754,a submersible warship usually armed with torpedoes
+n04350905,a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color
+n04355338,timepiece that indicates the daylight hours by the shadow that the gnomon casts on a calibrated dial
+n04355933,a convex lens that focuses the rays of the sun; used to start a fire
+n04356056,spectacles that are darkened or polarized to protect the eyes from the glare of the sun
+n04357314,a cream spread on the skin; contains a chemical (as PABA) to filter out ultraviolet light and so protect from sunburn
+n04366367,a bridge that has a roadway supported by cables that are anchored at both ends
+n04367480,cleaning implement consisting of absorbent material fastened to a handle; for cleaning floors
+n04370456,cotton knit pullover with long sleeves worn during athletic activity
+n04371430,swimsuit worn by men while swimming
+n04371774,mechanical device used as a plaything to support someone swinging back and forth
+n04372370,control consisting of a mechanical or electrical or electronic device for making or breaking or changing the connections in a circuit
+n04376876,a medical instrument used to inject or withdraw fluids
+n04380533,a lamp that sits on a table
+n04389033,an enclosed armored military vehicle; has a cannon and moves on caterpillar treads
+n04392985,electronic equipment for playing back magnetic tapes
+n04398044,pot for brewing tea; usually has a spout and handle
+n04399382,plaything consisting of a child's toy bear (usually plush and stuffed with soft materials)
+n04404412,a telecommunication system that transmits images of objects (stationary or moving) between distant points
+n04409515,ball about the size of a fist used in playing tennis
+n04417672,a house roof made with a plant material (as straw)
+n04418357,a hanging cloth that conceals the stage from the view of the audience; rises or parts at the beginning and descends or closes between acts and at the end of a performance
+n04423845,a small metal cap to protect the finger while sewing; can be used as a small container
+n04428191,a farm machine for separating seeds or grain from the husks and straw
+n04429376,the chair of state for a monarch, bishop, etc.
+n04435653,a roof made of fired clay tiles
+n04442312,a kitchen appliance (usually electric) for toasting bread
+n04443257,a shop that sells pipes and pipe tobacco and cigars and cigarettes
+n04447861,the hinged seat on a toilet
+n04456115,a light usually carried in the hand; consists of some flammable substance
+n04458633,a tribal emblem consisting of a pillar carved and painted with totemic figures; erected by Indian tribes of the northwest Pacific coast
+n04461696,a truck equipped to hoist and pull wrecked cars (or to remove cars from no-parking zones)
+n04462240,shop where toys are sold
+n04465501,a wheeled vehicle with large wheels; used in farming and other applications
+n04467665,a truck consisting of a tractor and trailer together
+n04476259,an open receptacle for holding or displaying or serving articles or food
+n04479046,a military style raincoat; belted with deep pockets
+n04482393,a vehicle with three wheels that is moved by foot pedals
+n04483307,a fast sailboat with 3 parallel hulls
+n04485082,a three-legged rack used for support
+n04486054,a monumental archway; usually they are built to commemorate some notable victory
+n04487081,a passenger bus with an electric motor that draws power from overhead wires
+n04487394,a brass instrument consisting of a long tube whose length can be varied by a U-shaped slide
+n04493381,a large open vessel for holding or storing liquids
+n04501370,a gate consisting of a post that acts as a pivot for rotating arms; set in a passageway for controlling the persons entering
+n04505470,a keyboard for manually entering characters to be printed
+n04507155,a lightweight handheld collapsible canopy
+n04509417,a vehicle with a single wheel that is driven by pedals
+n04515003,a piano with a vertical sounding board
+n04517823,an electrical home appliance that cleans by suction
+n04522168,an open jar of glass or porcelain used as an ornament or to hold flowers
+n04523525,an arched brick or stone ceiling or roof
+n04525038,a silky densely piled fabric with a plain back
+n04525305,a slot machine for selling goods
+n04532106,gown (especially ceremonial garments) worn by the clergy
+n04532670,bridge consisting of a series of arches supported by piers used to carry a road (or railroad) over a valley
+n04536866,bowed stringed instrument that is the highest member of the violin family; this instrument has four strings and a hollow body and an unfretted fingerboard and is played with a bow
+n04540053,an inflated ball used in playing volleyball
+n04542943,a kitchen appliance for baking waffles; the appliance usually consists of two indented metal pans hinged together so that they create a pattern on the waffle
+n04548280,a clock mounted on a wall
+n04548362,a pocket-size case for holding papers and paper money
+n04550184,a tall piece of furniture that provides storage space for clothes; has a door and rails or hooks for hanging clothes
+n04552348,an aircraft designed and used for combat
+n04553703,a basin for washing the hands (`wash-hand basin' is a British expression)
+n04554684,a home appliance for washing clothes and linens automatically
+n04557648,a bottle for holding water
+n04560804,a jug that holds water
+n04562935,a large reservoir for water
+n04579145,a jug that contains whiskey
+n04579432,acoustic device that forces air or steam against an edge or into a cavity and so produces a loud shrill sound
+n04584207,hairpiece covering the head and made of real or synthetic hair
+n04589890,screen to keep insects from entering a building through the open window
+n04590129,an opaque window blind that can cover or uncover a window
+n04591157,a wide necktie worn in a loose bow
+n04591713,a bottle for holding wine
+n04592741,one of the horizontal airfoils on either side of the fuselage of an airplane
+n04596742,pan with a convex bottom; used for frying in Chinese cooking
+n04597913,a spoon made of wood
+n04599235,a fabric made from the hair of sheep
+n04604644,rail fence consisting of a zigzag of interlocking rails
+n04606251,a ship that has been destroyed at sea
+n04612504,a ship's small boat (usually rowed by 4 or 6 oars)
+n04613696,a circular domed dwelling that is portable and self-supporting; originally used by nomadic Mongol and Turkic people of central Asia but now used as inexpensive alternative or temporary housing
+n06359193,a computer connected to the internet that maintains a series of web pages on the World Wide Web
+n06596364,a magazine devoted to comic strips
+n06785654,a puzzle in which words corresponding to numbered clues are to be found and written in to squares in the puzzle
+n06794110,a sign visible from the street
+n06874185,a visual signal to control the flow of traffic at intersections
+n07248320,a paper jacket for a book; a jacket on which promotional information is usually printed
+n07565083,the dishes making up a meal
+n07579787,a main course served on a plate
+n07583066,a dip made of mashed avocado mixed with chopped onions and other seasonings
+n07584110,clear soup usually of beef or veal or chicken
+n07590611,a stew of meat and potatoes cooked in a tightly covered pot
+n07613480,a cold pudding made of layers of sponge cake spread with fruit or jelly; may be decorated with nuts, cream, or chocolate
+n07614500,frozen dessert containing cream and sugar and flavoring
+n07615774,ice cream or water ice on a small wooden stick
+n07684084,a loaf of French bread
+n07693725,(Yiddish) glazed yeast-raised doughnut-shaped roll with hard crust
+n07695742,glazed and salted cracker typically in the shape of a loose knot
+n07697313,a hamburger with melted cheese on it
+n07697537,a frankfurter served hot on a bun
+n07711569,potato that has been peeled and boiled and then mashed
+n07714571,any of several varieties of cabbage having a large compact globular head; may be steamed or boiled or stir-fried or used raw in coleslaw
+n07714990,branched green undeveloped flower heads
+n07715103,compact head of white undeveloped flowers
+n07716358,small cucumber-shaped vegetable marrow; typically dark green
+n07716906,medium-sized oval squash with flesh in the form of strings that resemble spaghetti
+n07717410,small dark green or yellow ribbed squash with yellow to orange flesh
+n07717556,buff-colored squash with a long usually straight neck and sweet orange flesh
+n07718472,cylindrical green fruit with thin green rind and white flesh eaten as a vegetable; related to melons
+n07718747,a thistlelike flower head with edible fleshy leaves and heart
+n07720875,large bell-shaped sweet pepper in green or red or yellow or orange or black varieties
+n07730033,only parts eaten are roots and especially stalks (blanched and used as celery); related to artichokes
+n07734744,fleshy body of any of numerous edible fungi
+n07742313,apple with a green skin and hard tart flesh
+n07745940,sweet fleshy red fruit
+n07747607,round yellow to orange fruit of any of several citrus trees
+n07749582,yellow oval fruit with juicy acidic flesh
+n07753113,fleshy sweet pear-shaped yellowish or purple multiple fruit eaten fresh or preserved or dried
+n07753275,large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated
+n07753592,elongated crescent-shaped yellow fruit with soft sweet flesh
+n07754684,immense East Indian fruit resembling breadfruit; it contains an edible pulp and nutritious seeds that are commonly roasted
+n07760859,the fruit of any of several tropical American trees of the genus Annona having soft edible pulp
+n07768694,large globular fruit having many seeds with juicy red pulp in a tough brownish-red rind
+n07802026,grass mowed and cured for use as fodder
+n07831146,sauce for pasta; contains eggs and bacon or ham and grated cheese
+n07836838,sauce made with unsweetened chocolate or cocoa and sugar and water
+n07860988,a flour mixture stiff enough to knead or roll
+n07871810,a baked loaf of ground meat
+n07873807,Italian open pie made of thin bread dough spread with a spiced mixture of e.g. tomato sauce and cheese
+n07875152,deep-dish meat and vegetable pie or a meat stew with dumplings
+n07880968,a flour tortilla folded around a filling
+n07892512,wine having a red color derived from skins of dark-colored grapes
+n07920052,strong black coffee brewed by forcing hot water under pressure through finely ground coffee beans
+n07930864,a punch served in a pitcher instead of a punch bowl
+n07932039,a punch made of sweetened milk or cream mixed with eggs and usually alcoholic liquor
+n09193705,any high mountain
+n09229709,a hollow globule of gas (e.g., air or carbon dioxide)
+n09246464,a steep high face of rock
+n09256479,a reef consisting of coral consolidated into limestone
+n09288635,a spring that discharges hot water and steam
+n09332890,the shore of a lake
+n09399592,a natural elevation (especially a rocky one that juts out into the sea)
+n09421951,a bar of sand
+n09428293,the shore of a sea or ocean
+n09468604,a long depression in the surface of the land that usually contains a river
+n09472597,a mountain formed by volcanic material
+n09835506,an athlete who plays baseball
+n10148035,a man participant in his own marriage ceremony
+n10565667,an underwater diver who uses scuba gear
+n11879895,seed of rape plants; source of an edible oil
+n11939491,any of numerous composite plants having flower heads with well-developed ray flowers usually arranged in a single whorl
+n12057211,maroon to purple-brown orchid with yellow lip; Europe, North America and Japan
+n12144580,the dried grains or kernels or corn used as animal feed or ground for meal
+n12267677,fruit of the oak tree: a smooth thin-walled nut in a woody cup-shaped base
+n12620546,the fruit of a rose plant
+n12768682,the inedible nutlike seed of the horse chestnut
+n12985857,any of numerous fungi of the family Clavariaceae often brightly colored that grow in often intricately branched clusters like coral
+n12998815,a saprophytic fungus of the order Agaricales having an umbrellalike cap with gills on the underside
+n13037406,any fungus of the genus Gyromitra
+n13040303,any of various ill-smelling brown-capped fungi of the order Phallales
+n13044778,any fungus of the family Geastraceae; in form suggesting a puffball whose outer peridium splits into the shape of a star
+n13052670,large greyish-brown edible fungus forming a mass of overlapping caps that somewhat resembles a hen at the base of trees
+n13054560,any fungus of the family Boletaceae
+n13133613,fruiting spike of a cereal plant especially corn
+n15075141,a soft thin absorbent paper for use in toilets
