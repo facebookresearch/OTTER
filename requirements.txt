@@ -1,0 +1,9 @@
+datadings==3.4.2
+faiss-gpu==1.7.0
+pandas==1.2.3
+Pillow==8.1.0
+scikit-learn==0.24.1
+timm==0.3.4
+transformers==4.3.3
+torch==1.7.1
+torchvision==0.8.2
