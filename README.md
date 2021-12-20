@@ -1,6 +1,6 @@
 # Data Efficient Language-Supervised Zero-Shot Recognition with Optimal Transport Distillation
 This repository contains PyTorch evaluation code, training code and pretrained models for **OTTER** (**O**ptimal 
-**T**ranspor**t** distillation for **E**fficient zero-shot **R**ecognition)
+**T**ranspor**t** distillation for **E**fficient zero-shot **R**ecognition). Link to the [paper](https://arxiv.org/abs/2112.09445). 
 
 Bichen Wu<sup>\*</sup>, Ruizhe Cheng<sup>\*</sup>, Peizhao Zhang, Tianren Gao, Joseph E. Gonzalez, Peter Vajda (* indicates equal contribution)
 
@@ -8,7 +8,23 @@ Bichen Wu<sup>\*</sup>, Ruizhe Cheng<sup>\*</sup>, Peizhao Zhang, Tianren Gao, J
 
 If you used this code for your experiments, please consider citing our paper:
 ```
+@inproceedings{otter,
+    Author = {Wu, Bichen and Cheng, Ruizhe and Zhang, Peizhao and Vajda, Peter and Gonzalez, Joseph E},
+    Title = {Data Efficient Language-supervised Zero-shot Recognition with Optimal Transport Distillation},
+    Journal = {arXiv:2112.09445},
+    Year = {2021}
+}
 
+```
+And our related work:
+```
+@inproceedings{cheng2021data,
+  title={Data-Efficient Language-Supervised Zero-Shot Learning with Self-Distillation},
+  author={Cheng, Ruizhe and Wu, Bichen and Zhang, Peizhao and Vajda, Peter and Gonzalez, Joseph E},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={3119--3124},
+  year={2021}
+}
 ```
 
 ## Model Zoo
